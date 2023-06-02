@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="CarTypes">
+        <item>Ford Ranger</item>
+        <item>Kia Stonic</item>
+        <item>Mitsubishi Xpander</item>
+        <item>Nissan Navara</item>
+        <item>Sarao 24 Seater</item>
+        <item>Toyota Vios</item>
+    </string-array>
+</resources>
